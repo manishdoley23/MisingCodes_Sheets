@@ -1,2 +1,1 @@
-# rogue_codes_Sheets
-Striver's 180 SDE sheet 
+Repo of different Coding Sheets uploaded on the internet
